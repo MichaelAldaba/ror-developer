@@ -1,3 +1,5 @@
 Git repository for The Professional Ruby on Rails Developer guide.
 
-To inquire about the CookSomething app, it was moved to its own repository under its own name due to heroku configuration problems.
+To inquire about the CookSomething app, search the “cooksomething” repository.
+
+App was moved to its own repository due to Heroku configuration problems.
